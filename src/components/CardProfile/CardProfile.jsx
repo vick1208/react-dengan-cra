@@ -3,7 +3,7 @@ import '../../App.css'
 function CardProfile(props) {
     return (
         <div className='Element-flex'>
-            <div className="card__media">
+            <div className="info-card">
                 <h1>Data diri peserta kelas Reactjs</h1>
                 <hr />
                 <ul>
