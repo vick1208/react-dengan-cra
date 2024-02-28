@@ -14,7 +14,7 @@ function App() {
       <CardHeader />
       <CardProfile 
       name="Vicky Alexander Susanto" 
-      batch="Batch 54" 
+      github="vick1208" 
       email="vicky.susanto@rocketmail.com"/>
     </>
   );

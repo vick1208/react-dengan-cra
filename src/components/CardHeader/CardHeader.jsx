@@ -7,7 +7,7 @@ export default function CardHeader() {
             <div className='card__media'>
                 <h1>Hi, Saya Vicky</h1>
                 <hr />
-                <p>Saya dari Batch 54 sudah berhasil menginstall React</p>
+                <p>Saya berhasil menginstall React</p>
             </div>
         </div>
     )

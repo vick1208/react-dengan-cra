@@ -9,7 +9,7 @@ function CardProfile(props) {
                 <ul>
                     <li><b>Nama Lengkap:</b> {props.name}</li>
                     <li><b>Email:</b> {props.email}</li>
-                    <li><b>Batch Pelatihan:</b> {props.batch}</li>
+                    <li><b>GitHub:</b> {props.github}</li>
                 </ul>
             </div>
         </div>
